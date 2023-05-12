@@ -1,10 +1,10 @@
 # Portfolio CV
 
 ## technology
--NodeJS
--MongoDB
--Express
--Typescript
+- NodeJS
+- MongoDB
+- Express
+- Typescript
 
 ## Command recommend
 
