@@ -16,3 +16,5 @@
 -git config --global user.name "vantien2000"
 -git config --global user.email "vantien2000@github.com.vn"
 -git remote add origin https://github.com/vantien2000/portfolio_api_servive.git
+-git branch -M master
+-git push -u origin master
