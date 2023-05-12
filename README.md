@@ -18,3 +18,5 @@
 - git remote add origin https://github.com/vantien2000/portfolio_api_servive.git
 - git branch -M master
 - git push -u origin master
+### Typescript command
+- tsc --init
